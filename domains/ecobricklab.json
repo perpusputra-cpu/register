@@ -1,0 +1,10 @@
+{
+  "description": "Arya's Portfolio",
+  "owner": {
+    "username": "perpusputra-cpu",
+    "email": "perpustakaanputrapah@gmail.com"
+  },
+  "record": {
+    "CNAME": "https://ervl-v2.netlify.app/"
+  }
+}
